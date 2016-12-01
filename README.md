@@ -748,7 +748,7 @@ Examples:
 ┌ ─ ─ ─ ─ ─ scw run docker  ─ ─ ─ ─ ┐
 
 │   ┌───────────────────────────┐   │
-    │server=$(scw create docker)│
+    │SERVER=$(scw create docker)│
 │   └───────────────────────────┘   │
                   +
 │        ┌─────────────────┐        │
